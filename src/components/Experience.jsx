@@ -45,7 +45,7 @@ const Experience = () => {
           {
             role: "UX/UI Designer",
             date: "Oct 2025 - Present",
-            company: "Rvo Technologies Pvt. Ltd.",
+            company: "Ryvo Technologies Pvt. Ltd.",
             text: [
               "Currently working as a UX/UI Designer at Ryvo.",
               "Building the brand from scratch including logo, app design, website, and marketing visuals.",
