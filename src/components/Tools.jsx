@@ -104,10 +104,10 @@ const Tools = () => {
           {/* Row 2 */}
           <div className="flex flex-row gap-[60px]">
             {[
-              { src: asset.tool5, label: "Notion" },
-              { src: asset.tool6, label: "ChatGPT" },
-              { src: asset.tool7, label: "HTML (Basic)" },
-              { src: asset.tool8, label: "CSS (Basic)" },
+              { src: asset.tool5, label: "HTML (Basic)" },
+              { src: asset.tool6, label: "CSS (Basic)" },
+              { src: asset.tool7, label: "ChatGpt" },
+              { src: asset.tool8, label: "Notion" },
             ].map((item, i) => (
               <div key={i} className="flex flex-col w-[132px] gap-[25px]">
                 <img
